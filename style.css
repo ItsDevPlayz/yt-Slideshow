@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+
+}
+
+.container {
+    height: 1000px;
+    background-color: #AFD5AA;
+    
+}
+
+footer {
+    background-color: #8DB580;
+
+}
+
+
+
+#myCarousel{
+    background-color: #439775;
+    
+}
+
+#myCarousel img {
+    height: 400px;
+        margin-top: 20px;
+}
+#myCarousel a {
+   font-size: 50px; 
+    font-family: 'BioRhyme', serif;
+    
+}
+img {
+  height: 200px;
+      
+}
+label {
+    font-size: 25px; 
+    font-family: 'BioRhyme', serif;
+    
+}
